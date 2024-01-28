@@ -1,7 +1,7 @@
 ### Hi there 👋
-Full Stack Software Engineer and former Olympic Trials Qualifier with a competitive mindset and passion for helping others.
+Software Engineer with startup experience with a competitive mindset and passion for helping others.
 
-I'm a versatile developer with skills in React, React Native, JavaScript, Redux Toolkit, RTK Query, and Tailwind, with startup experience and a unique background in coaching.  Having 12 years of leadership role experience in non-profit organizations, I have Olympic-level team skills.  
+I'm a versatile developer with skills in React, React Native, JavaScript, Redux Toolkit, RTK Query, and Tailwind, with startup experience and a unique background in coaching. Having 12 years of leadership role experience in non-profit organizations, I have Olympic-level team skills.  
 
 - 🔭 I’m currently working on: new portfolio website built with Next.js & TypeScript.
 - 🌱 I’m currently learning: next.js, TypeScript - Udemy Course
