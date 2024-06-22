@@ -1,5 +1,7 @@
 ### Hi there 👋
-Software Engineer @ Dynasty Nerds 🏈🤓 | Kardio 💚 | ⚛️ [Portfolio Website](https://kevinnielsen.dev/)
+Software Engineer @ Dynasty Nerds 🏈🤓  |  Kardio 💚 
+
+⚛️ [Portfolio Website](https://kevinnielsen.dev/)
 
 I'm a versatile developer with skills in React, React Native, TypeScriptJavaScript, Redux Toolkit, RTK Query, and Tailwind, with startup experience and a unique background in coaching. Having 12 years of leadership role experience in non-profit organizations, I have Olympic-level team skills.  
 
