@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">⚛️ [Portfolio Website](https://kevinnielsen.dev/)</p>
+⚛️ [Portfolio Website](https://kevinnielsen.dev/)
 
 ###
 
@@ -96,8 +96,3 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=kevin_nielsen" alt="Layout with last medium posts"  />
-</div>
-
-###
