@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">- 🔭 Fullstack Software Engineer @ Dynasty Nerds 🏈🤓  |  Kardio 💚 <br>- 📚 I'm currently learning Prisma, Remix, Turborepo<br>- ⚡ In my free time I enjoy walks with my wife and dog, playing golf, and fantasy football</p>
+<p align="left">- 🔭 Fullstack Software Engineer @ The Fantasy Footballers 🏈  |  Kardio 💚 <br>- 📚 I'm currently learning Prisma, Remix, Turborepo<br>- ⚡ In my free time I enjoy walks with my wife and dog, playing golf, and fantasy football</p>
 
 ###
 
